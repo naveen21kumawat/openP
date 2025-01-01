@@ -1,2 +1,0 @@
-# openP
-Social Media
